@@ -14,7 +14,10 @@ def usage():
     print "                  TEAM               "
     print "             Army Of Beasts          "
     print "#####################################"
-    print "DDOS-ATTACK adalah tool untuk mengirim packet ke server korban."
+    
+    print "ATTACK-AOB adalah tool ddos-attack yang bertunjuan untuk mengirim packet atau email palsu ke server korban."
+    print 
+    print "WARNING"
     print "untuk membuat server korban menjadi down"
     print "jangan melakukan serangan sendirian!"
     print
