@@ -5,7 +5,7 @@ Gunakan tool ini dengan bijak.
 
 
 
-Team    : Army Of Beasts
+Army Of Beasts
 Website : https://armyofbeasts.art.blog/
 
 
