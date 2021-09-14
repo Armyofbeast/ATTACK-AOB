@@ -11,7 +11,7 @@ def usage():
     print "#####################################"
     print "              ATTACK-AOB             "
     print "                                     "
-    print "                  TEAM               "
+    print "                                     "
     print "             Army Of Beasts          "
     print "#####################################"
     
